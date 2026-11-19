@@ -4,8 +4,8 @@ My portfolio site, designed and built by me.
 Live at **https://tatevik-aleksanyan.com**
 
 ## What's inside
-- `tatevik-portfolio-v63/index.html`: the whole site in one file (HTML, CSS and JavaScript)
-- `tatevik-portfolio-v63/img/`: case study images (WebP)
+- `site/index.html`: the whole site in one file (HTML, CSS and JavaScript)
+- `site/img/`: case study images (WebP)
 
 ## How I built it
 - Designed in Figma, using my own design system:
